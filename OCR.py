@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import filedialog
 from turtle import heading
 from PIL import Image
-import pytesseract
+import pytesseract #need to install pytesseract.exe from google
 from tkinter import messagebox
 from tkinter import ttk
 import tkinter as tk
